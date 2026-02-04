@@ -8,9 +8,9 @@
 </h2>
 <div align="center">
     <p align="center">
-        <img src="docs/logo/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
-        <img src="docs/logo/fitdnu_logo.png" alt="AIoTLab Logo" width="180"/>
-        <img src="docs/logo/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
+        <img src="aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
+        <img src="fitdnu_logo.png" alt="FIT DNU Logo" width="180"/>
+        <img src="dnu_logo.png" alt="DaiNam University Logo" width="200"/>
     </p>
 
 [![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
@@ -18,6 +18,7 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
+
 
 ## 📖 1. Giới thiệu
 Hệ thống Quản lý Chấm công – Tính lương được xây dựng nhằm hỗ trợ doanh nghiệp quản lý nhân sự, theo dõi thời gian làm việc và tính lương cho người lao động một cách chính xác, minh bạch và hiệu quả. Hệ thống giúp thay thế các phương pháp quản lý thủ công, giảm sai sót và tiết kiệm thời gian cho bộ phận nhân sự.
