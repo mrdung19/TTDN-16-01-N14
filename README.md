@@ -156,9 +156,9 @@ Người sử dụng truy cập theo đường dẫn _http://localhost:8069/_ đ
 
 ## 📝 5. License
 
-- 👨‍🎓 **Sinh viên thực hiện**: Nguyễn Đức Hoàn
+- 👨‍🎓 **Sinh viên thực hiện**: Nguyễn Tiến Dũng
 - 🎓 **Khoa**: Công nghệ thông tin – Đại học Đại Nam
-- 📧 **Email**: nguyenduchoan2050@gmail.com
+- 📧 **Email** dungnguyen190224@gmail.com
 
 ---
 
